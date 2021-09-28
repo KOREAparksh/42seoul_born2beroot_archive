@@ -2,6 +2,9 @@
 
 생성일: 2021년 9월 25일 오후 6:44
 
+## Vim 설치?
+```sudo apt-get install vim``
+
 ## AppArmor란?
 
 ---
