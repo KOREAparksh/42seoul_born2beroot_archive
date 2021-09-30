@@ -26,3 +26,4 @@
 2. [sudo 설정 및 group 설정](/2.sudo_setting_&_group_setting.md)
 3. [Apparmor 설정 확인하기 && vim 설치하기](/3.setting_Apparmor_&_Vim_install)
 4. [UFW 설정](/4.UFW_setting.md)
+5. [SSH,SSH_SERVER 설정](/5.SSH_setting.md)
