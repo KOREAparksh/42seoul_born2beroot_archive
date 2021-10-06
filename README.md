@@ -29,4 +29,5 @@
 5. [SSH,SSH_SERVER 설정](/5.SSH_setting.md)
 6. [비밀번호 정책설정](/6.password_policy.md)
 7. [호스트네임과 파티셔닝](/7.hostname_partitioning.md)
+8. [Cron과 monitoring.sh](/8.cron_monitoring.md)
 
